@@ -1,17 +1,15 @@
-# upgrad_live_github
-UpGrad Live Session on GitHub and Git, for ML C36
 
-This is a session on Git and GitHub for C36.
 # upgrad_live_github
 UpGrad Live Session on GitHub and Git, for ML C36
 
 <BODY BGCOLOR="FFFFFF">
 
-<CENTER><IMG SRC="clouds.jpg" ALIGN="BOTTOM"> </CENTER>
+<CENTER><IMG SRC="https://i.imgur.com/GleAY3f.jpeg" ALIGN="BOTTOM"> </CENTER>
 
 <HR>
 
 <a href="http://somegreatsite.com">Link Name</a>
+
 
 is a link to another nifty site
 
