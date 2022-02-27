@@ -1,6 +1,10 @@
 
 # upgrad_live_github
+<<<<<<< HEAD
 UpGrad Live Session on GitHub and Git, for ML C37
+=======
+UpGrad Live Session on GitHub and Git, for ML C37 - (Remote)
+>>>>>>> e949ec88768b66f54ae3e89e17cdbd401ec226ce
 
 <BODY BGCOLOR="FFFFFF">
 
