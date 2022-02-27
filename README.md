@@ -1,6 +1,6 @@
 
 # upgrad_live_github
-UpGrad Live Session on GitHub and Git, for ML C36
+UpGrad Live Session on GitHub and Git, for ML C37
 
 <BODY BGCOLOR="FFFFFF">
 
